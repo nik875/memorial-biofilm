@@ -1,2 +1,0 @@
-gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
-33339804	B6A16_RS00160	16S rRNA methyltransferase	Sulfolobus acidocaldarius		2285	NZ_CP020361.1:22932-23591	+		PROTEIN_CODING					WP_011276965.1		219	16S rRNA methyltransferase
